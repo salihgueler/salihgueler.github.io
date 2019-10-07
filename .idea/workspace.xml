@@ -67,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570463696227</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add the images as network images.">
+      <created>1570469070165</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1570469070165</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,6 +92,7 @@
     <MESSAGE value="Initial commit." />
     <MESSAGE value="Update the imageview" />
     <MESSAGE value="Revert to assets" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revert to assets" />
+    <MESSAGE value="Add the images as network images." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add the images as network images." />
   </component>
 </project>
